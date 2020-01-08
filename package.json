@@ -1,0 +1,20 @@
+{
+  "name": "beyond-blazing-fast",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Grant Glidewell <hello@grantglidewell.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "devDependencies": {
+    "mdx-deck": "^3.0.13"
+  },
+  "resolutions": {
+    "mdx-deck/gatsby": "2.18.4",
+    "mdx-deck/gatsby-plugin-compile-es6-packages": "2.1.0"
+  },
+  "dependencies": {
+    "rebass": "^4.0.7"
+  }
+}
